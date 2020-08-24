@@ -1,0 +1,11 @@
+{
+  "name": "node-http-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo \"build is not configured for this package, skipping.\"",
+    "dev": "echo \"build is not configured for this package, skipping.\"",
+    "start": "node src/server.js"
+  }
+}
